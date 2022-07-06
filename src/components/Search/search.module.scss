@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.h1search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+h1{
+    font-size: 32px;
+    font-weight: 700;
+}
+input{
+    width: 280px;
+    height: 46px;
+    border-radius: 16px;
+    border-color:rgba(0, 0, 0, 0.158);
+    display: flex;
+    text-align: center;
+}
+}
+.h1search input::placeholder{
+    color: rgba(0, 0, 0, 0.158);
+    font-weight: 700;
+}
+.ser{
+    position: absolute;
+    width: 30px;
+    margin: 10px 20px;
+}

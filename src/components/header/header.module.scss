@@ -1,0 +1,21 @@
+
+.phonts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+.icon{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+img{
+        width: 30px;
+    }
+}
+.som{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+}
